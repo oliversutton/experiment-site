@@ -1,5 +1,5 @@
 theme: minima
-markdown: gfm
-# markdown: kramdown
+# markdown: gfm
+markdown: kramdown
 # kramdown:
 #   math_engine: mathjax
