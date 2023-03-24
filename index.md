@@ -26,4 +26,12 @@ $$
 \end{aligned}
 $$
 
+$$
+\begin{aligned}
+  Ax &= b
+  \\
+  Cx + d &= e
+\end{aligned}
+$$
+
 Does GFM support maths?
