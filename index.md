@@ -26,3 +26,4 @@ $$
 \end{aligned}
 $$
 
+Does GFM support maths?
