@@ -35,3 +35,9 @@ $$
 $$
 
 Does GFM support maths?
+
+\begin{align*}
+  f(x) &= 1
+  \\
+  g(x) + t &= 1
+\end{align*}
