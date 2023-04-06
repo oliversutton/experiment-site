@@ -43,3 +43,5 @@ So it would seem that maths is supported! Great!
   \\
   g(x) + t &= 1
 \end{align*}
+
+Now we can make some mathematics!
