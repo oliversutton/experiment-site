@@ -26,6 +26,8 @@ $$
 \end{aligned}
 $$
 
+What about aligning equations?
+
 $$
 \begin{aligned}
   Ax &= b
