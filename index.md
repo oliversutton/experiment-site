@@ -34,7 +34,7 @@ $$
 \end{aligned}
 $$
 
-Does GFM support maths?
+So it would seem that maths is supported! Great!
 
 \begin{align*}
   f(x) &= 1
